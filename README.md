@@ -11,5 +11,5 @@ Do the same for Part1_Lname and Part2_Lname.txt
 
 **Use of this wordlist is for educational purpose only, the authors and collaborators of this github repo are not responsible for any repercussions.**
 
-In collaboration with: Shubham Khichi [Linkedin](https://linkedin.com/in/shubhamkhichi) [Twitter](https://twitter.com/infosecbroo) and Sunny S [Linkedin](https://www.linkedin.com/in/sunny-x/)
+In collaboration with: Shubham Khichi [Linkedin](https://linkedin.com/in/shubhamkhichi), [Twitter](https://twitter.com/infosecbroo) and Sunny S [Linkedin](https://www.linkedin.com/in/sunny-x/)
 
